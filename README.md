@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+### Bienvenido !! 
+### Welcome !!
+
+Currently I work in the DATA & artificial intelligence team as a Transformation leader and Data Engineering Team Leader for Decathlon Spain.
+
 
 <!--
 **MartinezAitor/martinezaitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
